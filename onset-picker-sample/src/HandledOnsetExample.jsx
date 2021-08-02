@@ -39,7 +39,7 @@ class HandledOnsetExample extends React.Component {
   }
 
   render() {
-    const birthdate = ''
+    const birthdate = 'edfcb'
     return (
       <form onSubmit={this.handleSubmit}>
         <OnsetPicker
